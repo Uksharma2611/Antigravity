@@ -1,0 +1,16 @@
+{
+  "name": "Luminal Pro — Analytics Dashboard",
+  "short_name": "Luminal Pro",
+  "description": "Premium analytics dashboard with real-time insights and dark theme.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10131a",
+  "theme_color": "#10131a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
